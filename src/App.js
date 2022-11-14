@@ -50,7 +50,7 @@ function App() {
           {icon}
         </IconButton>
         <p style={{ padding: 50 }}>
-          Listo Learns React
+          Listo learns React
           </p>
         <ReverseText></ReverseText>
       </Paper>
